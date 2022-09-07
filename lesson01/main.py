@@ -1,6 +1,3 @@
-
-from pip import main
-
 def summ(x, y):
   return x + y
   
